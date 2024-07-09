@@ -1,0 +1,2 @@
+document.getElementById('buds').addEventListener('click',function(){document.getElementById("image").src="https://cdn.pixabay.com/photo/2023/02/18/16/38/rose-7798301_1280.jpg"});
+    document.getElementById('buds').addEventListener('click',function(){document.getElementById("image").src="https://cdn.pixabay.com/photo/2017/10/24/18/17/rose-2885586_1280.jpg"});
